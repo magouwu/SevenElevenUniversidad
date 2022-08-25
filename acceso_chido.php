@@ -2,21 +2,19 @@
   session_start();}
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/principal.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- InstanceBeginEditable name="doctitle" -->
+
 <title>Documento sin título</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+
 <link href="Estilo/principal.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
 
 <div class="container">
-  <div class="header"><!-- end .header --><img src="images/sven.png" width="961" height="122" /></div>
+  <div class="header"><img src="images/sven.png" width="961" height="122" /></div>
   <div class="sidebar1">
     <ul class="nav">
       <li></li>
@@ -36,16 +34,16 @@ else
 
   </div>
   <div class="content">
-    <h1><!-- InstanceBeginEditable name="Contenido" -->    Bienvenido<!-- InstanceEndEditable --></h1>
-    <!-- InstanceBeginEditable name="EditRegion4" -->
+    <h1>  Bienvenido</h1>
+    
     <p>Has Accedido    </p>
-    <!-- InstanceEndEditable --><!-- end .content --></div>
+   </div>
   <div class="footer">
     <p>Seven</p>
 
  
 
-    <!-- end .footer --></div>
-  <!-- end .container --></div>
+  </div>
+  </div>
 </body>
-<!-- InstanceEnd --></html>
+</html>
